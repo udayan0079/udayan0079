@@ -1,32 +1,30 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhaiminur%20Rahman%20Udayan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="32%" align="center">
+  <img src="IMG_20260411_184546.jpg" width="220" height="220" style="border-radius:50%;object-fit:cover;border:4px solid #7AA2F7;"/>
+</td>
+<td width="68%">
+
+### 👋 Hi, I'm Udayan
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Developer;Learning%20Python%2C%20Java%20%26%20JavaScript;Building%20Real-World%20Projects%20Soon;Passionate%20About%20Clean%20Code&font=Fira+Code&center=false&width=440&height=50&color=7AA2F7&vCenter=true&pause=1200&size=18"/>
+
+- 🎯 Strengthening my foundations in **Python, Java & JavaScript**
+- 🧩 Learning by building real, usable projects
+- 🤝 Open to collaboration & freelance opportunities
+- 📫 Always happy to connect — see links below
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Muhaiminur%20Rahman%20Udayan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Python%2C%20Java%20%26%20JavaScript;Building%20Real-World%20Projects%20Soon;Passionate%20About%20Clean%20Code;Always%20Curious%2C%20Always%20Growing&font=Fira+Code&center=true&width=600&height=50&color=7AA2F7&vCenter=true&pause=1200&size=23"/>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=udayan0079&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" />
-
 </div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-```yaml
-name: Muhaiminur Rahman Udayan
-role: Aspiring Software Developer
-focus: Backend & Application Development
-status: Actively learning, building soon
-fun_fact: Believes clean code is a form of respect to your future self
-```
-
-- 🎯 Currently strengthening my foundations in **Python, Java, and JavaScript**
-- 🧩 Exploring how to turn what I learn into real, usable projects
-- 📚 Strong believer in learning by building, not just reading
-- 🤝 Open to collaboration, freelance opportunities, and new ideas
-- 📫 Reach me through any platform below — always happy to connect
 
 <br/>
 
